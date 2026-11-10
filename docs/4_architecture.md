@@ -6,7 +6,7 @@ The app consists of 5 screens, 2 Firestore collections and MVVM layers; state is
 
 ![Screen map](screen_map.png)
 
-The app opens directly on the venue list, because viewing needs no sign-in. The sign-in screen is reached only when the user wants to report, or from the profile. Mockup: [Figma](FIGMA_LINK_HERE) · [docs/mockup.png](mockup.png)
+The app opens directly on the venue list, because viewing needs no sign-in. The sign-in screen is reached only when the user wants to report, or from the profile. Mockup: [Figma](https://www.figma.com/design/IMpJjh3kscYoXShQRoBfCW/Kamp%C3%BCs-Doluluk-%E2%80%93-Mockup?node-id=1-35&t=GIYnE74Zly6aXsZW-0) · [docs/mockup.png](mockup.png)
 
 ## 4.2 Data model
 
