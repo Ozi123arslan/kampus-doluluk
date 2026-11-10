@@ -19,6 +19,7 @@ The app has six must-have features, each mapped to a course topic.
 - **Rate limit:** One person can report on the same venue at most once every 15 minutes.
 - **Three levels:** Empty, Moderate, Full.
 - **Opening hours:** Outside opening hours a venue shows "Closed", moves to the bottom of the list and cannot receive reports. The dining hall is open 11:30–14:30 and 17:00–19:15.
+- **Interface language:** The app's interface is in Turkish because its users are YTU students. All documentation and code are in English.
 
 ## Venues
 
