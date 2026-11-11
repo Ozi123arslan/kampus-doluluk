@@ -1,12 +1,13 @@
 # 4. Architecture
 
-The app consists of 5 screens, 2 Firestore collections and MVVM layers; state is managed with Riverpod.
+The app consists of 7 screens, 2 Firestore collections and MVVM layers; state is managed with Riverpod.
 
 ## 4.1 Screen map
 
 ![Screen map](screen_map.png)
 
 The app opens directly on the venue list, because viewing needs no sign-in. The sign-in screen is reached only when the user wants to report, or from the profile. Mockup: [Figma](https://www.figma.com/design/IMpJjh3kscYoXShQRoBfCW) · 12 screens in `docs/` (`mockup_1_venue_list.png` … `mockup_12_report_sent.png`). Screens 9–12 show the rules in action: offline mode, a closed venue, the distance check and the 15-minute limit after a report.
+
 ## 4.2 Data model
 
 **Venue** (Firestore `venues`, 8 records)
