@@ -23,7 +23,7 @@ The app has six must-have features, each mapped to a course topic.
 
 ## Venues
 
-Seven venues on Davutpaşa Campus: Hokka Cafe, Kayıntı Cafe, Büyük Ev Cafe, Yıldız Cafe, 21co, YTU Dining Hall and YTU Gym. The list is fixed; users cannot add venues. The dining hall's lower and upper floors are calculated separately, so the database holds 8 records; the list shows both floors on a single card with two rows.
+Seven venues on Davutpaşa Campus: Hokka Cafe, Kayıntı Cafe, Büyük Ev Cafe, Yıldız Cafe, Yirmibirco, YTU Dining Hall and YTU Gym. The list is fixed; users cannot add venues. The dining hall's lower and upper floors are calculated separately, so the database holds 8 records; the list shows both floors on a single card with two rows.
 
 ## Later versions
 
