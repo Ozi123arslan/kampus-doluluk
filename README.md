@@ -15,8 +15,7 @@ A Flutter app that shows how crowded the cafés, dining hall and gym on YTU's Da
 
 | Section | File |
 | --- | --- |
-| 1. Problem and users | [docs/1_problem.md](docs/1_problem.md) |
-| 2. Why existing apps fail | [docs/2_existing_apps.md](docs/2_existing_apps.md) |
+| 1–2. Problem, users and existing apps | [docs/1_2_problem_and_existing_apps.docx](docs/1_2_problem_and_existing_apps.docx) |
 | 3. Features | [docs/3_features.md](docs/3_features.md) |
 | 4. Architecture | [docs/4_architecture.md](docs/4_architecture.md) |
 | 5. Plan and risks | [docs/5_plan.md](docs/5_plan.md) |
