@@ -7,9 +7,9 @@ A Flutter app that shows how crowded the cafés, dining hall and gym on YTU's Da
 
 | Member | Responsibility |
 | --- | --- |
-| Oğuzhan Arslan | Features, architecture, submission |
-| Sıla [Surname] | Problem and existing apps |
-| Rabia [Surname] | Mockup and screen map |
+| Oğuzhan ARSLAN | Features, architecture, submission |
+| Sıla BAYIR | Problem and existing apps |
+| Rabia ŞAHİN | Mockup and screen map |
 
 ## Milestone 1
 
